@@ -4,7 +4,7 @@
 <div class="col-sm-8" style="padding:2px;"> 
 	<div class="box box-primary">	
 		<!--<div class="box-header with-border">
-	        <h2 class="box-title"> {$titulo|default:""}</h2>
+	        <h2 class="box-title"> {$titulo|default:""}</h2> 
 	        <div class="box-tools">
 	                <a class="btn btn-primary" href="{$_layoutParams.root}usuarios/registro/editarUsuario/"> Nuevo Usuario</a>
 			</div>
